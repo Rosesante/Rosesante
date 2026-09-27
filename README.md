@@ -112,7 +112,7 @@ I'm a software developer passionate about building practical and meaningful digi
 I'm always open to connecting, collaborating, and discussing technology.
 
 📧 **Email:** rosesantem@gmail.com
-💼 **LinkedIn:** www.linkedin.com/in/rosesante-munisi
+💼 **LinkedIn:** https://www.linkedin.com/in/rosesante-munisi
 🐙 **GitHub:** https://github.com/Rosesante
 
 ---
