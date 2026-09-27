@@ -113,7 +113,7 @@ I'm always open to connecting, collaborating, and discussing technology.
 
 📧 **Email:** rosesantem@gmail.com
 💼 **LinkedIn:** www.linkedin.com/in/rosesante-munisi
-🐙 **GitHub:** Your GitHub Profile
+🐙 **GitHub:** https://github.com/Rosesante
 
 ---
 
