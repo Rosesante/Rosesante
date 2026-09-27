@@ -3,7 +3,7 @@
 </p>
 
 <h3 align="center">
-💻 Software Developer | 🤖 AI Enthusiast | ⚡ IoT & Intelligent Systems
+💻 Software Developer | 🤖 AI Enthusiast 
 </h3>
 
 <p align="center">
@@ -58,15 +58,6 @@ I'm a software developer passionate about building practical and meaningful digi
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
 
-### ⚡ IoT & Development Tools
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge\&logo=mqtt\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-
----
 
 ## 💼 Professional Skills
 
@@ -84,12 +75,6 @@ I'm a software developer passionate about building practical and meaningful digi
 * Computer Vision
 * AI-Based Solutions
 
-### ⚡ IoT & Intelligent Systems
-
-* Arduino
-* Sensors & Data Collection
-* MQTT
-* IoT System Development
 
 ### 🔧 Development Practices
 
@@ -127,7 +112,7 @@ I'm a software developer passionate about building practical and meaningful digi
 I'm always open to connecting, collaborating, and discussing technology.
 
 📧 **Email:** rosesantem@gmail.com
-💼 **LinkedIn:** Your LinkedIn Profile
+💼 **LinkedIn:** www.linkedin.com/in/rosesante-munisi
 🐙 **GitHub:** Your GitHub Profile
 
 ---
